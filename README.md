@@ -1,1 +1,1 @@
-![Logo UIT](https://example.com/path/to/image.png)
+![Logo UIT](https://www.uit.edu.vn/sites/vi/files/banner_uit.png)
