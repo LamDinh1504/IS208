@@ -15,7 +15,7 @@
 - **Giảng viên hướng dẫn:** Tạ Việt Phương
 
 
-## THÀNH VIÊN NHÓM 
+## DANH SÁCH THÀNH VIÊN 
 
 |Họ và tên|MSSV|Chức vụ|Github|Email|
 |:---|:---|:---|:---|:---|
@@ -25,11 +25,13 @@
 |Thái Văn Vũ|23521816|Thành viên||23521816@gm.uit.edu.vn|
 
 
-## ĐỀ TÀI NGHIÊU CỨU
+## ĐỒ ÁN MÔN HỌC
 
 ## GIỚI THIỆU ĐỀ TÀI 
 
-## TIẾN ĐỘ NHÓM 
+## HỢP ĐỒNG THỎA THUẬN LÀM VIỆC NHÓM 
+
+## TIẾN ĐỘ DỰ ÁN 
 
 
 
