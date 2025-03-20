@@ -24,14 +24,11 @@
 |Lê Thanh Hùng|23520562|Thành viên||23520562@gm.uit.edu.vn|
 |Thái Văn Vũ|23521816|Thành viên||23521816@gm.uit.edu.vn|
 
+## SEMINAR
 
 ## ĐỒ ÁN MÔN HỌC
 
-## GIỚI THIỆU ĐỀ TÀI 
 
-## HỢP ĐỒNG THỎA THUẬN LÀM VIỆC NHÓM 
-
-## TIẾN ĐỘ DỰ ÁN 
 
 
 
