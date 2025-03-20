@@ -33,7 +33,13 @@
 
 ## SEMINAR
 
+<a name="seminar"></a>
+Seminar nhóm: Tích hợp Zapier để kết nối các ứng dụng như Trello, Google Sheets, Slack nhằm tự động hóa quy trình QLDA. Trình bày một số quy trình tự động hóa với Zapier (ví dụ: khi cập nhật task trên Trello, tự động gửi thông báo Slack và lưu dữ liệu vào Google Sheets). 
+
 ## ĐỒ ÁN MÔN HỌC
+
+<a name="doanmonhoc"></a>
+Đồ án Nhóm: Phát triển Website Quản lý Tuyển Dụng.
 
 
 
