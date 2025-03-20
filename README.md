@@ -6,6 +6,13 @@
 
 <h1 align="center">QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN</h1>
 
+## BẢNG MỤC LỤC
+* [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Danh sách thành viên](#danhsachthanhvien)
+* [ Seminar](#seminar)
+* [ Đồ án môn học](#doanmonhoc)
+
+
 ## GIỚI THIỆU MÔN HỌC 
 
 - **Tên môn học:** Quản lí dự án công nghệ thông tin
